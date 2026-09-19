@@ -1,3 +1,6 @@
+# Proyecto 1: Busquedas
+# Inteligencia Artificial
+
 import math
 import src.SimpleSearch as sp
 
