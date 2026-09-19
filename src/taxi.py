@@ -1,6 +1,6 @@
 # integrantes: Moisés Moreno Cortez y César Ambris Salguero
 # Proyecto 1: Busquedas
-# Inteligencia Artificial
+# Materia: Inteligencia Artificial
 
 import math
 import src.SimpleSearch as sp
